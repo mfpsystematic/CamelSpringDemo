@@ -1,0 +1,9 @@
+myapp:
+  region: "Kanto"
+  timeout: 1s
+  multitenancy:
+    tenants:
+      roasted:
+        uri: "production.roasted.uri"
+      camomille:
+        message: "Why not coffee?"

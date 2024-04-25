@@ -1,0 +1,8 @@
+myapp:
+    region: "Bremen"
+    multitenancy:
+    tenants:
+        espresso:
+            message: "Hello, Espresso!"
+            uri: "production.espresso.uri"
+            password: '{cipher}dd87c3dc8e1054ee4552d3ae335871ee6bb6273f55860ce784a321cd4ce9cf77'
