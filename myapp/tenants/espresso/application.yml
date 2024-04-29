@@ -1,5 +1,5 @@
 myapp:
-    region: "Bremen8"
+    region: "Bremen9"
     multitenancy:
     tenants:
         espresso:
